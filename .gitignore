@@ -39,3 +39,8 @@ Thumbs.db
 # The entire target directory until I really need it #
 ######################################################
 BeerApp/target
+
+# The entire .idea directory until I really need it #
+####################################################
+BeerApp/.idea
+BeerApp/*.iml
